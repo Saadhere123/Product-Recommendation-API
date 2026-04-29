@@ -1,0 +1,31 @@
+product_id,name,category,description
+1,iPhone 14,Mobile,Apple smartphone with great camera and battery
+2,iPhone 13,Mobile,Apple smartphone with powerful performance
+3,Samsung S23,Mobile,Android flagship phone with AMOLED display
+4,Google Pixel 7,Mobile,Android phone with excellent camera AI
+5,OnePlus 11,Mobile,Fast performance Android phone with smooth UI
+6,Xiaomi 13,Mobile,Affordable flagship Android smartphone
+7,Realme GT Neo 5,Mobile,Gaming smartphone with fast charging
+8,Vivo V29,Mobile,Camera focused smartphone with stylish design
+9,MacBook Pro,Laptop,Apple laptop for professionals and developers
+10,MacBook Air,Laptop,Lightweight Apple laptop for students
+11,Dell XPS 13,Laptop,Windows ultrabook laptop slim and powerful
+12,HP Pavilion,Laptop,Affordable laptop for students and office use
+13,Lenovo ThinkPad,Laptop,Business laptop with durable keyboard
+14,Asus ROG Strix,Laptop,Gaming laptop with high performance GPU
+15,Acer Aspire 7,Laptop,Budget gaming and productivity laptop
+16,Apple Watch,Smartwatch,Smartwatch fitness tracking and notifications
+17,Samsung Galaxy Watch,Smartwatch,Android smartwatch health tracking
+18,Huawei Watch GT,Smartwatch,Long battery life fitness smartwatch
+19,Sony WH1000XM5,Headphones,Noise cancelling premium headphones
+20,JBL Tune 760NC,Headphones,Wireless headphones with deep bass
+21,AirPods Pro,Headphones,Apple wireless earbuds with ANC
+22,iPad Air,Tablet,Apple tablet for study and creativity
+23,iPad Pro,Tablet,High performance Apple tablet for professionals
+24,Galaxy Tab S8,Tablet,Android tablet for entertainment and work
+25,Canon EOS 1500D,Camera,DSLR camera for photography beginners
+26,Nikon D3500,Camera,Entry level DSLR camera for learning photography
+27,Sony Alpha A6000,Camera,Mirrorless camera with fast autofocus
+28,Logitech MX Master 3,Accessories,Premium wireless mouse for productivity
+29,Razer BlackWidow,Accessories,Mechanical gaming keyboard
+30,Anker PowerBank,Accessories,Fast charging portable power bank
